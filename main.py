@@ -10,3 +10,4 @@ plt.colorbar(label="NDVI")
 plt.title("NDVI - Sentinel-2")
 plt.show()
 plt.savefig("ndvi.png", dpi=300)
+
