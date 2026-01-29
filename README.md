@@ -15,6 +15,8 @@ In this project, NDVI was calculated from Sentinel-2 imagery using Google Earth 
 ---
 
 ![NDVI map](MapaNDVIPeiropolisPonteAlta.png)
+Axes represent pixel indices of the raster image; each pixel corresponds to a ground area from Sentinel-2 imagery.
+
 ## 🛰️ Data Source
 
 - **Satellite:** Sentinel-2  
